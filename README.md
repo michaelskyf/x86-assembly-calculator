@@ -1,2 +1,2 @@
 ### x86 Assembly simple calculator
-This calculator can add, substract, multiply and divide integers (returns only integers)
+This calculator can only add positive integers (but allows negative integers too!)
